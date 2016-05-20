@@ -1,0 +1,14 @@
+layout_spectrum: 0.2564713491592556
+typography_spectrum: 0.1836488377302885
+color:
+  brandStrength: 0.09122671629302204
+  lightness: 0.6937806704081595
+  saturation: 0.7227483268361539
+  rhythmicContrast: 0.3337423417251557
+  brandColors:
+    - '#000000'
+    - '#263248'
+    - '#7E8AA2'
+    - '#FFFFFF'
+    - '#FF9800'
+name: proper breakup
